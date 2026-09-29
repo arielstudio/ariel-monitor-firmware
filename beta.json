@@ -1,9 +1,9 @@
 {
-  "version": "1.3.3",
-  "url": "https://github.com/arielstudio/ariel-monitor-firmware/releases/download/v1.3.3/ArielMonitor-v1.3.3.bin",
-  "size": 1671568,
-  "sha256": "362726f3634f56037d9fd2ab5f15adda40dd68a811319bf12cbe934e3dba2ee2",
-  "sig": "MEUCICwsbC/gydnQ2rJosWhEfQLbQuM5tpXDivxfWN46QzjEAiEAyPuUVaN03rJRfjP3SlgFjhlZbqINx21BHNODzobVP0I=",
-  "notes": "Giao diện thời tiết mới: ảnh nền đổi theo nắng, mưa, đêm; trang Hiện tại có 5 ngày tới và chất lượng không khí; trang Chi tiết. Sửa lỗi nhỏ.",
-  "date": "2026-09-26"
+  "version": "1.3.4",
+  "url": "https://github.com/arielstudio/ariel-monitor-firmware/releases/download/v1.3.4/ArielMonitor-v1.3.4.bin",
+  "size": 1676016,
+  "sha256": "4212b6e29b2490ce5a4afa77aa27e9505f83555749261c1b1c1af769288ddcf3",
+  "sig": "MEYCIQDiLHBmJoWgMdnGsf007UzmrkMhF435u2qAv7Siyfj58gIhAISkmCJB0MLOArT/MdrvrA3IalmCLNYyjb8xKmgAnhVG",
+  "notes": "Nhớ tối đa 9 WiFi, tự vào lại WiFi đã nhớ khi mất mạng; chạm mã QR trong Cài đặt để đổi WiFi; trang web có danh sách WiFi đã nhớ. Sửa lỗi nhỏ.",
+  "date": "2026-09-29"
 }
