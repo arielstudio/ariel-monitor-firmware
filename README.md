@@ -33,6 +33,7 @@ Nếu báo lỗi kết nối: rút cáp, **giữ nút BOOT** trong lúc cắm l�
 - Nút tròn hình ngôi nhà hoặc bấm nút **BOOT**: về màn hình chính. **Giữ BOOT 2 giây**: tắt / mở máy.
 - Máy tự ngủ sau 3 phút; chạm màn hình hoặc bấm BOOT để thức. Máy bị treo sẽ tự khởi động lại.
 - Chuông trên màn hình chính: xem thông báo (tắt tự hiện ở **Cài đặt → Thông báo**). Đặt vỏ ngược: **Cài đặt → trang 2 → Lật màn hình 180°**.
+- **Máy kẹt / chạy không bình thường**: **Cài đặt → trang 2 → Khởi động lại** (chạm 2 lần), hoặc trang web → Thiết bị → Khởi động lại.
 - **WiFi**: máy nhớ tối đa 9 WiFi và tự vào lại khi quay về chỗ cũ. Đổi mạng: **Cài đặt → chạm khung mã QR** → chọn WiFi khác.
 - Máy in có chấm đỏ: mở máy đó, chạm dòng **"N cảnh báo"** để đọc nội dung cảnh báo tiếng Việt của Bambu.
 - Dùng pin: xem sơ đồ đấu trong gói firmware gửi kèm (LiPo + mạch sạc tăng áp 5 V → cổng P1, đo pin bằng MAX17048).
