@@ -1,9 +1,9 @@
 {
-  "version": "1.3.5",
-  "url": "https://github.com/arielstudio/ariel-monitor-firmware/releases/download/v1.3.5/ArielMonitor-v1.3.5.bin",
-  "size": 1677472,
-  "sha256": "772a5fdedb46ab25e401335541eb636c1ed55ed1e8e49a0835ffe1a76c98109f",
-  "sig": "MEYCIQDDe1i9NY2V/XVKSZGYrq8ELW4Qs71HYYcEJHmkapHpvwIhAN9LnBzBThZnc3umAgv4foJP5vTQyvw9vvFBaSaBPGkK",
-  "notes": "Sửa nhận nhầm loại màn hình trên một số bo (màn lật gương, sai màu); thêm Khởi động lại trong Cài đặt và trang web.",
-  "date": "2026-09-29"
+  "version": "1.3.6",
+  "url": "https://github.com/arielstudio/ariel-monitor-firmware/releases/download/v1.3.6/ArielMonitor-v1.3.6.bin",
+  "size": 1677536,
+  "sha256": "e3200e251f70567a3360caa57b3c06420102e9435b3ef5106709cc9098469732",
+  "sig": "MEQCIHsx6Cr9EZuiK+CeQ6MWqXL7mLlTW0JLF7Dh/OcsGA4GAiB6I8ABNEZjwYbQuH91M631Lni8lOLBjZy4gOgiKPAElA==",
+  "notes": "Thẻ máy in: chấm cảnh báo chuyển lên cạnh tên máy, không còn đè dòng trạng thái in.",
+  "date": "2026-09-30"
 }
