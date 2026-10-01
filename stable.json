@@ -1,9 +1,9 @@
 {
-  "version": "1.3.6",
-  "url": "https://github.com/arielstudio/ariel-monitor-firmware/releases/download/v1.3.6/ArielMonitor-v1.3.6.bin",
-  "size": 1677536,
-  "sha256": "e3200e251f70567a3360caa57b3c06420102e9435b3ef5106709cc9098469732",
-  "sig": "MEQCIHsx6Cr9EZuiK+CeQ6MWqXL7mLlTW0JLF7Dh/OcsGA4GAiB6I8ABNEZjwYbQuH91M631Lni8lOLBjZy4gOgiKPAElA==",
-  "notes": "Thẻ máy in: chấm cảnh báo chuyển lên cạnh tên máy, không còn đè dòng trạng thái in.",
-  "date": "2026-09-30"
+  "version": "1.3.7",
+  "url": "https://github.com/arielstudio/ariel-monitor-firmware/releases/download/v1.3.7/ArielMonitor-v1.3.7.bin",
+  "size": 1688432,
+  "sha256": "2e1ff394ab7bd8361c9afea6633404edb55f9291d6306e5780eea3cd81ad14f0",
+  "sig": "MEYCIQDMyp3/4/qNMBfC36MzqgmhZTKa10GgDtuEGWIF7WHssQIhALR/nIDDrRnxpQ8CUcnVCQu3Mh8FxnDqjF4jz/yOmKsM",
+  "notes": "App Thời tiết vẽ nhanh hơn khoảng 40% (ảnh nền giải nén theo dải); trang web hiện thời gian vẽ màn hình.",
+  "date": "2026-10-01"
 }
